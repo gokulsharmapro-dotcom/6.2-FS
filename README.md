@@ -5,3 +5,4 @@ JWT Authentication for Secure Banking API Endpoints
 <img width="792" height="476" alt="2" src="https://github.com/user-attachments/assets/839268b1-b073-46ee-aef9-40d90d94af5f" />
 <img width="792" height="476" alt="2" src="https://github.com/user-attachments/assets/49ff5e02-203a-471a-862c-e239f3c0ba8f" />
 <img width="788" height="257" alt="3" src="https://github.com/user-attachments/assets/d983ad1f-847e-434e-a7a2-98018474826c" />
+.
